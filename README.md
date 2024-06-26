@@ -1,4 +1,4 @@
-#### Fine-tuned Mistral 7B and prompting
+### Fine-tuned Mistral 7B and prompting
 * [Mistral 7B](https://mistral.ai/news/announcing-mistral-7b/) was selected as a base LLM because of it's performance when compared to Llama 2 family and it's model size. Although I didn't had much time to explore other LLM's, I think this was the only model which could be quantized to 4-bit and then loaded to a 3060-Ti (8GB vRAM).
 * Mistral 7B is a 7.3B parameter model that:
     * Outperforms Llama 2 13B on all benchmarks
@@ -13,7 +13,7 @@
 * The model performance on summarization is good.
 
 
-### Some other resources that might be useful
+#### Everything else that was used while working on this project, any resource that might be useful
 0. https://www.youtube.com/results?search_query=train+a+named+entity+recognition+model
 1. https://www.youtube.com/watch?v=uKPBkendlxw
 2. https://www.youtube.com/watch?v=2XUhKpH0p4M
