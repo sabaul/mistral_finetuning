@@ -13,7 +13,7 @@
 * The model performance on summarization is good.
 
 
-#### Everything else that was used while working on this project, any resource that might be useful
+#### Everything else that was used while working on this project, any resource that might be useful (including a duckduckgo search)
 0. https://www.youtube.com/results?search_query=train+a+named+entity+recognition+model
 1. https://www.youtube.com/watch?v=uKPBkendlxw
 2. https://www.youtube.com/watch?v=2XUhKpH0p4M
