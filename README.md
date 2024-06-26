@@ -14,18 +14,18 @@
 
 
 #### Everything else that was used while working on this project, any resource that might be useful (including a duckduckgo search)
-0. https://www.youtube.com/results?search_query=train+a+named+entity+recognition+model
-1. https://www.youtube.com/watch?v=uKPBkendlxw
-2. https://www.youtube.com/watch?v=2XUhKpH0p4M
-3. https://www.youtube.com/watch?v=ujubwa_oa-0
-4. https://www.youtube.com/watch?v=sUtthdcPyhc
-5. https://mistral.ai/news/announcing-mistral-7b/
-6. https://duckduckgo.com/?t=ffab&q=spacy+named+entity+recognition+for+medical+text&ia=web
-7. https://gbnegrini.com/post/biomedical-text-nlp-scispacy-named-entity-recognition-medical-records/
-8. https://towardsdatascience.com/clinical-named-entity-recognition-using-spacy-5ae9c002e86f
-9. https://gathnex.medium.com/mistral-7b-fine-tuning-a-step-by-step-guide-52122cdbeca8 (Use the medical dataset from here for finetuning, dataset: https://huggingface.co/datasets/gathnex/Gath_baize)
-10. https://adithyask.medium.com/a-beginners-guide-to-fine-tuning-mistral-7b-instruct-model-0f39647b20fe (Dataset used: https://huggingface.co/datasets/TokenBender/code_instructions_122k_alpaca_style)
-11. https://levelup.gitconnected.com/a-step-by-step-guide-to-runing-mistral-7b-ai-on-a-single-gpu-with-google-colab-274a20eb9e40
-12. https://medium.com/@scholarly360/mistral-7b-complete-guide-on-colab-129fa5e9a04d
-13.https://levelup.gitconnected.com/a-step-by-step-guide-to-runing-mistral-7b-ai-on-a-single-gpu-with-google-colab-274a20eb9e40
-(Mistral on single gpu: https://webcache.googleusercontent.com/search?q=cache:https://levelup.gitconnected.com/a-step-by-step-guide-to-runing-mistral-7b-ai-on-a-single-gpu-with-google-colab-274a20eb9e40&sca_esv=578489342&strip=1&vwsrc=0)
+* https://www.youtube.com/results?search_query=train+a+named+entity+recognition+model
+* https://www.youtube.com/watch?v=uKPBkendlxw
+* https://www.youtube.com/watch?v=2XUhKpH0p4M
+* https://www.youtube.com/watch?v=ujubwa_oa-0
+* https://www.youtube.com/watch?v=sUtthdcPyhc
+* https://mistral.ai/news/announcing-mistral-7b/
+* https://duckduckgo.com/?t=ffab&q=spacy+named+entity+recognition+for+medical+text&ia=web
+* https://gbnegrini.com/post/biomedical-text-nlp-scispacy-named-entity-recognition-medical-records/
+* https://towardsdatascience.com/clinical-named-entity-recognition-using-spacy-5ae9c002e86f
+* https://gathnex.medium.com/mistral-7b-fine-tuning-a-step-by-step-guide-52122cdbeca8 (Use the medical dataset from here for finetuning, dataset: https://huggingface.co/datasets/gathnex/Gath_baize)
+* https://adithyask.medium.com/a-beginners-guide-to-fine-tuning-mistral-7b-instruct-model-0f39647b20fe (Dataset used: https://huggingface.co/datasets/TokenBender/code_instructions_122k_alpaca_style)
+* https://levelup.gitconnected.com/a-step-by-step-guide-to-runing-mistral-7b-ai-on-a-single-gpu-with-google-colab-274a20eb9e40
+* https://medium.com/@scholarly360/mistral-7b-complete-guide-on-colab-129fa5e9a04d
+* https://levelup.gitconnected.com/a-step-by-step-guide-to-runing-mistral-7b-ai-on-a-single-gpu-with-google-colab-274a20eb9e40
+* Mistral on single gpu: https://webcache.googleusercontent.com/search?q=cache:https://levelup.gitconnected.com/a-step-by-step-guide-to-runing-mistral-7b-ai-on-a-single-gpu-with-google-colab-274a20eb9e40&sca_esv=578489342&strip=1&vwsrc=0
