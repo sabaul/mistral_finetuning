@@ -1,5 +1,5 @@
 ### Fine-tuned Mistral 7B and prompting
-* [Mistral 7B](https://mistral.ai/news/announcing-mistral-7b/) was selected as a base LLM because of it's performance when compared to Llama 2 family and it's model size. Although I didn't had much time to explore other LLM's, I think this was the only model which could be quantized to 4-bit and then loaded to a 3060-Ti (8GB vRAM).
+* [Mistral 7B](https://mistral.ai/news/announcing-mistral-7b/) was selected as a base LLM because of it's performance when compared to Llama 2 family and it's model size. Although I didn't had much time to explore other LLM's, I think this was one of the biggest model which could be quantized to 4-bit and then loaded to a 3060-Ti (8GB vRAM).
 * Mistral 7B is a 7.3B parameter model that:
     * Outperforms Llama 2 13B on all benchmarks
     * Outperforms Llama 1 34B on many benchmarks
